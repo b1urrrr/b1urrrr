@@ -1,4 +1,4 @@
-### Hi there 👋
+<p align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=87cefa&height=300&section=header&text=Chaeyeon%20Jeon&fontSize=70&animation=fadeIn&fontColor=2d2d2d" /></p>
 
 <!--
 **b1urrrr/b1urrrr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
