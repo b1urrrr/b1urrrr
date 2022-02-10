@@ -28,7 +28,6 @@
 
 <p align="center">🌟 Github Stats</p>
 <div align=center><img src="https://github-readme-stats.vercel.app/api?username=b1urrrr&show_icons=true"></div>
-<br></br>
 
 <!--
 **b1urrrr/b1urrrr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
