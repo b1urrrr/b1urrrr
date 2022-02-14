@@ -1,6 +1,6 @@
 <p align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=87cefa&height=300&section=header&text=Chaeyeon%20Jeon&fontSize=70&animation=fadeIn&fontColor=2d2d2d" /></p>
 
-<b><p align="center">🛠️ Tech Stack</p></b>
+<b><h3 align="center">🛠️ Tech Stack</h3></b>
 <div align=center>
   <img src="https://img.shields.io./badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white">
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"> 
@@ -20,13 +20,13 @@
 </div>
 <br></br>
 
-<b><p align="center">📖 Studying</p></b>
+<b><h3 align="center">📖 Studying</h3></b>
 <div align=center>  
   <img src="https://img.shields.io/badge/Springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"> 
 </div>
 <br></br>
 
-<b><p align="center">🌟 Github Stats</p></b>
+<b><h3 align="center">🌟 Github Stats</h3></b>
 <div align=center><img src="https://github-readme-stats.vercel.app/api?username=b1urrrr&show_icons=true"></div>
 
 <!--
