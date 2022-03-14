@@ -1,4 +1,7 @@
-<p align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&text=Chaeyeon%20Jeon&fontSize=70&animation=fadeIn&fontColor=2d2d2d" /></p>
+<p align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,4,5,6,12,18,19,20,26,30&height=300&section=header&text=Chaeyeon%20Jeon&fontSize=70&animation=fadeIn&fontColor=1C1C1C" /></p>
+
+<!-- 예쁨 : 1, 4, 5, 6, 12, 18, 19, 20, 26, 30 -->
+<!-- 애매 : 0, 2, 3, 17, 24, 27, 29 -->
 
 <b><h3 align="center">🛠️ Tech Stack</h3></b>
 <div align=center>
