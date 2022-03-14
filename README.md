@@ -1,4 +1,4 @@
-<p align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=87cefa&height=300&section=header&text=Chaeyeon%20Jeon&fontSize=70&animation=fadeIn&fontColor=2d2d2d" /></p>
+<p align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&text=Chaeyeon%20Jeon&fontSize=70&animation=fadeIn&fontColor=2d2d2d" /></p>
 
 <b><h3 align="center">🛠️ Tech Stack</h3></b>
 <div align=center>
