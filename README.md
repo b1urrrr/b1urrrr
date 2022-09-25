@@ -30,12 +30,12 @@
 </div>
 <br></br>
 
-<b><h3 align="center">🌟 Github Stats</h3></b>
-<div align=center><img src="https://github-readme-stats.vercel.app/api?username=b1urrrr&show_icons=true"></div>
-<br></br>
-
 <b><h3 align="center">👑 BOJ & Solved.ac Stats</h3></b>
 <div align=center><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=c10ud"></div>
+<br></br>
+
+<b><h3 align="center">🌟 Github Stats</h3></b>
+<div align=center><img src="https://github-readme-stats.vercel.app/api?username=b1urrrr&show_icons=true"></div>
 
 <!--
 **b1urrrr/b1urrrr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
