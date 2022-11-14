@@ -20,12 +20,6 @@
 </div>
 <br></br>
 
-<b><h3 align="center">📖 Studying</h3></b>
-<div align=center>  
-  <img src="https://img.shields.io/badge/Springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"> 
-</div>
-<br></br>
-
 <b><h3 align="center">👑 BOJ & Solved.ac Stats</h3></b>
 <div align=center><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=c10ud"></div>
 <br></br>
