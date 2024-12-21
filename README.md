@@ -16,12 +16,17 @@
 
 ### Project
 - [YELL:O](https://github.com/team-yello/YELLO-Android) - Android Lead Developer 
-- [Keeynez](https://github.com/Keyneez/Keyneez-AOS) - Android Lead Developer
+- [Keyneez](https://github.com/Keyneez/Keyneez-AOS) - Android Lead Developer
 - [Instagram Redesign Project](https://github.com/CDS-Mobile1/CDS-Instagram-Android) - Android Lead Developer
 - [Aladin Redesign Project](https://github.com/SOPT-TEAM6-Aladin/Aladin-AOS) - Android Developer
 - [BookNuts](https://github.com/Book-Nuts/booknuts-frontend) - Android Lead Developer
 - [Sujung Village](https://github.com/SujungVillage/SujungVillage-User-Android) - Team Leader / Android Lead Developer
 <br>
+
+### Experience
+- [SOPT 32th Android Part](https://github.com/GO-SOPT-ANDROID/chaeyeon-jeon) (2023)
+- [SOPT 31th Android Part](https://github.com/IN-SOPT-ANDROID/chaeyeon-jeon) (2022 ~ 2023)
+- KUSITMS 25th Dev Part (2022)
 
 <!-- Solved.ac Stats : 플레 되찾고 돌아온다
 <div align=center><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=c10ud"></div>
