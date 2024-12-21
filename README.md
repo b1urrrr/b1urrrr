@@ -1,28 +1,38 @@
-<p align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,4,5,6,12,19,26,30&height=300&section=header&text=Chaeyoun%20Jun&desc=That's%20me!&descAlignY=60&fontAlignY=40&fontSize=70&animation=fadeIn&fontColor=1C1C1C" /></p>
-<!-- https://github.com/kyechan99/capsule-render -->
+<h1 align=center><b>Chaeyoun the Android Developer</b></h1>
+<p align=center>
+  That's me!
+</p>
+<br>
 
-<b><h3 align="center">🛠️ Tech Stack</h3></b>
-<div align=center>
-  <img src="https://img.shields.io./badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white">
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"> 
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white">
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
-  <br>
-  
-  <img src="https://img.shields.io/badge/android-3DDC84?style=for-the-badge&logo=android&logoColor=white">
-  <img src="https://img.shields.io/badge/firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white">
-  <img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white">
-  <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> 
-  <br>
-</div>
-<br></br>
+### Tech Stack
+<p align=left>
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/></a> &nbsp
+  <img src="https://img.shields.io/badge/Kotlin-0095D5?style=flat-square&logo=Kotlin&logoColor=white"/></a> &nbsp
+  <img src="https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=flat-square&logo=Jetpack%20Compose&logoColor=white"/></a> &nbsp
+  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=OpenJdk&logoColor=white"/></a> &nbsp 
+  <img src="https://img.shields.io/badge/Git-f05030?style=flat-square&logo=Git&logoColor=white"/></a> &nbsp
+</p>
+<br>
 
-<b><h3 align="center">👑 BOJ & Solved.ac Stats</h3></b>
+### Project
+- [YELL:O](https://github.com/team-yello/YELLO-Android) - Android Lead Developer 
+- [Keeynez](https://github.com/Keyneez/Keyneez-AOS) - Android Lead Developer
+- [Instagram Redesign Project](https://github.com/CDS-Mobile1/CDS-Instagram-Android) - Android Lead Developer
+- [Aladin Redesign Project](https://github.com/SOPT-TEAM6-Aladin/Aladin-AOS) - Android Developer
+- [BookNuts](https://github.com/Book-Nuts/booknuts-frontend) - Android Lead Developer
+- [Sujung Village](https://github.com/SujungVillage/SujungVillage-User-Android) - Team Leader / Android Lead Developer
+<br>
+
+<!-- Solved.ac Stats : 플레 되찾고 돌아온다
 <div align=center><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=c10ud"></div>
 <br></br>
+-->
 
-<b><h3 align="center">🌟 Github Stats</h3></b>
-<div align=center><img src="https://github-readme-stats.vercel.app/api?username=b1urrrr&show_icons=true"></div>
+<!-- Github Readme Stats
+<div align=center>
+  <img src="https://github-readme-stats.vercel.app/api?username=b1urrrr&show_icons=true">
+</div>
+-->
 
 <!--
 **b1urrrr/b1urrrr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
