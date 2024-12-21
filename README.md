@@ -19,8 +19,8 @@
 - [Keyneez](https://github.com/Keyneez/Keyneez-AOS) - Android Lead Developer
 - [Instagram Redesign Project](https://github.com/CDS-Mobile1/CDS-Instagram-Android) - Android Lead Developer
 - [Aladin Redesign Project](https://github.com/SOPT-TEAM6-Aladin/Aladin-AOS) - Android Developer
-- [BookNuts](https://github.com/Book-Nuts/booknuts-frontend) - Android Lead Developer
 - [Sujung Village](https://github.com/SujungVillage/SujungVillage-User-Android) - Team Leader / Android Lead Developer
+- [BookNuts](https://github.com/Book-Nuts/booknuts-frontend) - Android Lead Developer
 <br>
 
 ### Experience
