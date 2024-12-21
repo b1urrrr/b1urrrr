@@ -24,10 +24,14 @@
 <br>
 
 ### Experience
-- [SOPT 32th Android Part](https://github.com/GO-SOPT-ANDROID/chaeyeon-jeon) (2023)
-- [SOPT 31th Android Part](https://github.com/IN-SOPT-ANDROID/chaeyeon-jeon) (2022 - 2023)
+- [SOPT 32nd Android Part](https://github.com/GO-SOPT-ANDROID/chaeyeon-jeon) (2023)
+- [SOPT 31st Android Part](https://github.com/IN-SOPT-ANDROID/chaeyeon-jeon) (2022 - 2023)
 - SSWU GDSC Android Part (2022)
 - KUSITMS 25th Dev Part (2022)
+<br>
+
+### Career
+- [Soft Berry](https://www.soft-berry.com/) - Android Developer (2024.02 ~ )
 
 <!-- Solved.ac Stats : 플레 되찾고 돌아온다
 <div align=center><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=c10ud"></div>
