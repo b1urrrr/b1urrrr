@@ -1,8 +1,5 @@
-<p align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,4,5,6,12,19,26,30&height=300&section=header&text=Chaeyeon%20Jeon&fontSize=70&animation=fadeIn&fontColor=1C1C1C" /></p>
-
+<p align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,4,5,6,12,19,26,30&height=300&section=header&text=Chaeyoun%20Jun&desc=That's%20me!&descAlignY=60&fontAlignY=40&fontSize=70&animation=fadeIn&fontColor=1C1C1C" /></p>
 <!-- https://github.com/kyechan99/capsule-render -->
-<!-- 예쁨 : 1,4,5,6,12,19,26,30 -->
-<!-- 애매 : 0, 2, 3, 17, 18, 20, 24, 27, 29 -->
 
 <b><h3 align="center">🛠️ Tech Stack</h3></b>
 <div align=center>
